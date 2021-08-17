@@ -6,7 +6,7 @@ if(!isset($_SESSION['username'])){
 ?>
 <html>
 <head>
-	<title>Dashboad</title>
+	<title>ICT INVENTORY-Dashboad</title>
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 </head>
 <body>
